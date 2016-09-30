@@ -1,14 +1,12 @@
 # spec-test
 
-A Clojure library designed to ... well, that part is up to you.
+clojure.spec sandbox!
 
-## Usage
-
-FIXME
+[![asciicast](https://asciinema.org/a/87701.png)](https://asciinema.org/a/87701)
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 BOXP
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
